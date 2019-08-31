@@ -1,3 +1,5 @@
+# the program uses the internal camera of the laptop or you can also use an external webcame for this 
+# tha program will minimize the screen on the time when it setect the other face appering in . i.e. no. of face is graeter than 2 
 import cv2
 import pynput
 from pynput.keyboard import Key, Controller
