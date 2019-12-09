@@ -1,5 +1,7 @@
 # ThePrivacyFirst
-Want to stop someone to see your personal work that you are doing on your PC . ThePrivacyFirst will help you hide your work when someone try to look into your PC
+Privacy is the key aspect of being comfortable.The following Program allows you to minimize your window whenever an unwanted 
+being enters your camera frame. This uses the web-cam present on the system  and the functionality of the code  and speed is dependent on the hardware available in the camera.
+Given below are requirements to run the following code. 
 
 # How to use 
 <h6>Make sure you have python , opencv , pynput installed on your PC and working </h6>
