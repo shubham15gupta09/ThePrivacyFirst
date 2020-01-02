@@ -7,7 +7,7 @@ Given below are requirements to run the following code.
 Make sure you have python , opencv , pynput installed on your PC and working 
 Run the code.py in background and do your work . when someone try to look into your PC everything will get minimized
 The effeciency depends on your Inbuilt camera quality . Or else you can use the external webcam
-<b
+<br>
 
 
 [![](https://sourcerer.io/fame/shubham15gupta09/shubham15gupta09/ThePrivacyFirst/images/0)](https://sourcerer.io/fame/shubham15gupta09/shubham15gupta09/ThePrivacyFirst/links/0)[![](https://sourcerer.io/fame/shubham15gupta09/shubham15gupta09/ThePrivacyFirst/images/1)](https://sourcerer.io/fame/shubham15gupta09/shubham15gupta09/ThePrivacyFirst/links/1)[![](https://sourcerer.io/fame/shubham15gupta09/shubham15gupta09/ThePrivacyFirst/images/2)](https://sourcerer.io/fame/shubham15gupta09/shubham15gupta09/ThePrivacyFirst/links/2)[![](https://sourcerer.io/fame/shubham15gupta09/shubham15gupta09/ThePrivacyFirst/images/3)](https://sourcerer.io/fame/shubham15gupta09/shubham15gupta09/ThePrivacyFirst/links/3)[![](https://sourcerer.io/fame/shubham15gupta09/shubham15gupta09/ThePrivacyFirst/images/4)](https://sourcerer.io/fame/shubham15gupta09/shubham15gupta09/ThePrivacyFirst/links/4)[![](https://sourcerer.io/fame/shubham15gupta09/shubham15gupta09/ThePrivacyFirst/images/5)](https://sourcerer.io/fame/shubham15gupta09/shubham15gupta09/ThePrivacyFirst/links/5)[![](https://sourcerer.io/fame/shubham15gupta09/shubham15gupta09/ThePrivacyFirst/images/6)](https://sourcerer.io/fame/shubham15gupta09/shubham15gupta09/ThePrivacyFirst/links/6)[![](https://sourcerer.io/fame/shubham15gupta09/shubham15gupta09/ThePrivacyFirst/images/7)](https://sourcerer.io/fame/shubham15gupta09/shubham15gupta09/ThePrivacyFirst/links/7)
